@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      (文章标题)
-subtitle:   (副标题)
+title:      我
+subtitle:   自我介绍
 date:       2018-12-01
-author:     (作者名)
+author:     张振
 header-img: img/the-first.png
 catalog:   true
 tags:
