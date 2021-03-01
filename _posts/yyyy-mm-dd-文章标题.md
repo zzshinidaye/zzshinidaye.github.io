@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      (文章标题)
 subtitle:   (副标题)
