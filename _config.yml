@@ -17,7 +17,7 @@ sidebar-avatar: /img/5F311DCF0A12E9F26B4CA2C96317101B.jpg      # use absolute UR
 
 
 # SNS settings
-RSS: false
+RSS: true
 # weibo_username:     qiubaiying
 # zhihu_username:     qiubaiying
 # github_username:    qiubaiying
