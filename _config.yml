@@ -104,8 +104,5 @@ friends: [
     },{
         title: "微信",
         href: "https://u.wechat.com/MAoVPFyzjyQof337pw-HAFA"
-    },{
-        title: "知乎",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
-    }
+    },
 ]
